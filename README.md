@@ -12,4 +12,4 @@ git commit -m "輸入這次修改的comment"
 git push //將檔案push到git的repository上
 ```
 ## Homework
-homework_1 - [Unit01_Crash Course on Python](https://github.com/eson1027/IMLP_416_eson/blob/main/Unit01_Crash%20Course%20on%20Python.ipynb)
+homework_1 - [Unit01_Crash Course on Python](https://github.com/eson1027/IMLP_416_eson/tree/main/hw1)
