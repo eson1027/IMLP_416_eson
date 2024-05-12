@@ -1,4 +1,4 @@
-## Upload homework for IMLP
+## Upload homework
 
 ```shell
 open cmd
@@ -10,3 +10,6 @@ git add . //上傳全部和遠端不同的修改，但仍未push到git上
 git status //確認資料上傳情形
 git commit -m "輸入這次修改的comment"
 git push //將檔案push到git的repository上
+```
+## Homework
+homework_1 - [Unit01_Crash Course on Python](Unit01_Crash Course on Python.ipynb)
