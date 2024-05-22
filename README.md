@@ -13,3 +13,5 @@ git push //將檔案push到git的repository上
 ```
 ## Homework
 homework_1 - [Unit01_Crash Course on Python](https://github.com/eson1027/IMLP_416_eson/tree/main/hw1)
+
+homework_2 - [Unit 2 - Data Analysis Package](https://github.com/eson1027/IMLP_416_eson/tree/main/hw2)
